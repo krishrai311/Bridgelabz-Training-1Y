@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="877c7411-3d3c-48a1-b9c7-397a6bd4892a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Bridgelabz-Training-1Y.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Heightplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Multi6to9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Multipletable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/OddeEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Positivenegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/Sumutil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level1/twoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level2/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level2/Height.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level2/Largestdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level2/Largestdigit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaArrays/level2/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic program/DemoJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Array1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="workshop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39BiY9gsqfomzVe8orKc9qmnJo0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GreatestElement.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java-arrays&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Bridgelabz-Training-1Y\src\com\gla" />
+      <recent name="D:\Bridgelabz-Training-1Y\src\com" />
+      <recent name="D:\Bridgelabz-Training-1Y\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="877c7411-3d3c-48a1-b9c7-397a6bd4892a" name="Changes" comment="" />
+      <created>1770175913179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770175913179</updated>
+      <workItem from="1770175916901" duration="45000" />
+      <workItem from="1770176096055" duration="105000" />
+      <workItem from="1770177186142" duration="1320000" />
+      <workItem from="1770224515831" duration="1074000" />
+      <workItem from="1770368140809" duration="19000" />
+      <workItem from="1770380714576" duration="1328000" />
+      <workItem from="1770394024767" duration="1962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
