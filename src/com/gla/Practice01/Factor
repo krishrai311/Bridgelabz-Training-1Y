@@ -1,0 +1,75 @@
+import java.util.Scanner;
+
+class Main {
+
+    // Method to find factors and return as array
+    public static int[] getFactors(int num) {
+        int count = 0;
+
+        // First loop to count factors
+        for (int i = 1; i <= num; i++) {
+            if (num % i == 0) {
+                count++;
+            }
+        }
+
+        // Create array with exact size
+        int[] factors = new int[count];
+
+        // Second loop to store factors
+        int index = 0;
+        for (int i = 1; i <= num; i++) {
+            if (num % i == 0) {
+                factors[index] = i;
+                index++;
+            }
+        }
+
+        return factors;
+    }
+
+    // Method to find sum of factors
+    public static int sumOfFactors(int[] arr) {
+        int sum = 0;
+        for (int value : arr) {
+            sum += value;
+        }
+        return sum;
+    }
+
+    // Method to find product of factors
+    public static long productOfFactors(int[] arr) {
+        long product = 1;
+        for (int value : arr) {
+            product *= value;
+        }
+        return product;
+    }
+
+    // Method to find sum of squares of factors
+    public static double sumOfSquares(int[] arr) {
+        double sum = 0;
+        for (int value : arr) {
+            sum += Math.pow(value, 2);
+        }
+        return sum;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int number = sc.nextInt();
+
+        int[] factors = getFactors(number);
+
+        System.out.println("Factors are:");
+        for (int value : factors) {
+            System.out.print(value + " ");
+        }
+
+        System.out.println("\nSum of factors: " + sumOfFactors(factors));
+        System.out.println("Product of factors: " + productOfFactors(factors));
+        System.out.println("Sum of squares of factors: " + sumOfSquares(factors));
+    }
+}
