@@ -1,0 +1,33 @@
+class Item {
+    int itemCode;
+    String itemName;
+    double price;
+
+    // Method to display item details
+    void displayItem() {
+        System.out.println("Item Code: " + itemCode);
+        System.out.println("Item Name: " + itemName);
+        System.out.println("Price per Item: " + price);
+    }
+
+
+    double calculateTotalCost(int quantity) {
+        return price * quantity;
+    }
+
+    public static void main(String[] args) {
+        Item item1 = new Item();
+
+        item1.itemCode = 101;
+        item1.itemName = "Pen";
+        item1.price = 10;
+
+        item1.displayItem();
+
+        int quantity = 5;
+        double total = item1.calculateTotalCost(quantity);
+
+        System.out.println("Quantity: " + quantity);
+        System.out.println("Total Cost: " + total);
+    }
+}
