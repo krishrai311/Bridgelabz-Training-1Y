@@ -1,4 +1,16 @@
 package com.gla.expression;
 
+import java.util.regex.*;
+
 public class word {
+    public static void main(String[] args) {
+        String text = "The Eiffel Tower is in Paris and the Statue of Liberty is in New York.";
+
+        Pattern pattern = Pattern.compile("\\b[A-Z][a-z]*\\b");
+        Matcher matcher = pattern.matcher(text);
+
+        while (matcher.find()) {
+            System.out.print(matcher.group() + " ");
+        }
+    }
 }
